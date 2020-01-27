@@ -7,8 +7,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 public class Solution {
-
-    // Complete the jumpingOnClouds function below.
+	
     static int jumpingOnClouds(int[] c) {
         int jump = 0;
         int i = 0;
